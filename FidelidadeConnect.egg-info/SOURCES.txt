@@ -1,0 +1,7 @@
+setup.py
+FidelidadeConnect.egg-info/PKG-INFO
+FidelidadeConnect.egg-info/SOURCES.txt
+FidelidadeConnect.egg-info/dependency_links.txt
+FidelidadeConnect.egg-info/entry_points.txt
+FidelidadeConnect.egg-info/requires.txt
+FidelidadeConnect.egg-info/top_level.txt
