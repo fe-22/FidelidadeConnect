@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: FidelidadeConnect
+Version: 1.0
+Requires-Dist: Flask==2.0.2
+Requires-Dist: pandas==1.4.3
+Requires-Dist: waitress==2.1.0
